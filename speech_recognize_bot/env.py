@@ -1,0 +1,3 @@
+TOKEN_KEY   = "7935609776:AAFg8va1U9340hCw8Z-QtMSi7hVIHazPtrI"
+FOLDER_PATH = "downloads"
+RESULT_PATH = "results"

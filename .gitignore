@@ -1,0 +1,8 @@
+*__pycache__
+*.env
+*poetry.lock
+config/celery.cpython.*
+*downloads
+*results
+*tests
+*pyproject.toml
